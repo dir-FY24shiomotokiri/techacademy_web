@@ -1,0 +1,9 @@
+p {
+	color: red;
+}
+.box {
+	margin: 20px;
+	border: 15px solid blue;
+	padding: 50px;
+	background-color: rgba(200,200,0,1.0);
+}
